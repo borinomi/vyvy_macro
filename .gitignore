@@ -1,0 +1,4 @@
+build/
+dist/
+vyvy.spec
+venv/
